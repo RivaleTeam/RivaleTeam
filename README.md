@@ -15,8 +15,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ## ⚡ Estatísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RivaleTeam&show_icons=true&theme=dark&hide_border=true)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RivaleTeam&layout=compact&theme=dark&hide_border=true)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RivaleTeam&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
 ---
 _"G."_  
